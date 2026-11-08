@@ -5,7 +5,7 @@
  * Coursework   : 04
  * Student ID   : 5026251058
  * Full Name    : Dimas Dwi Darmawan
- * Class        : C
+ * Class        : Ca
  */
 
 import java.util.*;
